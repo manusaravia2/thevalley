@@ -26,3 +26,16 @@ MSE_SpaceX_2_EDA.ipynb: Análisis de datos exploratorio de SpaceX, lenguaje Pyth
 MSE_SpaceX_3_EDA_Using_SQL.ipynb: Ejercicios de consultas SQL para analizar mejor los datos, lenguaje Python
 
 MSE_SpaceX_4_EDA_with_Data_Visualization.ipynb: Visualizar datos de SpaceX mediante gráficas, lenguaje Python
+
+
+## DIA 3. JUEVES
+
+Ficheros subidos:
+
+MSE_Prophet_Predecir_el_valor_del_petróleo_WTI.ipynb: Predicción del pretróleo WTI en 2023 usando la librería Prophet, lenguaje Python
+
+MSE_M5_06_Introducción_a_Machine_Learning_con_Scikit_Learn.ipynb: Uso de función scikit learn para Machine Learning, lenguaje Python
+
+MSE_M5_07_Regresión.ipynb: Creación y uso de modelos de regresión, lenguaje Python
+
+MSE_M5_09_Folium.ipynb: Conocer la librería Folium para la creación de mapas, lenguaje Python
