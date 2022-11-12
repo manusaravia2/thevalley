@@ -39,3 +39,11 @@ MSE_M5_06_Introducción_a_Machine_Learning_con_Scikit_Learn.ipynb: Uso de funci�
 MSE_M5_07_Regresión.ipynb: Creación y uso de modelos de regresión, lenguaje Python
 
 MSE_M5_09_Folium.ipynb: Conocer la librería Folium para la creación de mapas, lenguaje Python
+
+## DIA 4. VIERNES
+
+Ficheros subidos:
+
+MSE_M5_SPACEX2_6_Machine_Learning_Predicciones.ipynb: Realizar diferentes modelos de predicciones (SVM, Decision Tree etc) para el dataframe de SpaceX, lenguaje Python
+
+MSE_M5_SPACEX2_5_Interactive_Visual_Analytics_con_Folium.ipynb: Utilizar la librería Folium para analizar los lugares donde se lanzan los cohetes, lenguaje Python
